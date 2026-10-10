@@ -1,0 +1,6 @@
+{
+  "name": "Chronos - Precision Timer & World Clock",
+  "description": "A sleek, multi-featured precision timer, stopwatch, interval timer, and world clock with audio alerts, presets, and zen display mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
